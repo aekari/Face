@@ -12,7 +12,7 @@ When the user hovers over the character with their mouse:
 1. The background and character colors invert
 2. His eyes and mouth change shape
 
-If you are curious how I accomplished this, please look the .pde file as I have commented every line of code explaining what everything means.
+If you are curious how I accomplished this, please look the .[pde file](https://github.com/aekari/Face/commit/ae2ef440e806d380e0c91c64663683790048dd3c) as I have commented every line of code explaining what everything means.
 
 ## Setup/Installation Requirements
 
@@ -21,6 +21,6 @@ If you are curious how I accomplished this, please look the .pde file as I have 
 3. Open the .pde file in Processing and run the sketch
 4. Hover over the face to "wake up" the character 😴→😲
 
-![](https://i.imgur.com/MXGiFym.gif)
+<img src="https://i.imgur.com/MXGiFym.gif" width=50%>
 
 Copyright © [Ashleigh Ekari](https://www.ashleighekari.com)
